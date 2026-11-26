@@ -1,0 +1,48 @@
+level,result,goal_remaining_pct,spectacle,fomo_prompt,after_loss,assumed,note
+1,win,,normal,0,,1,
+2,win,,normal,0,,1,
+3,win,,normal,0,,1,
+4,win,,normal,0,,1,
+5,win,,normal,0,,1,
+6,win,,normal,0,,1,
+7,win,,normal,0,,1,boosters unlocked
+8,lose,,normal,0,R,0,1 target left; forced trial booster
+8,win,,normal,0,,0,won right away
+9,win,,normal,0,,1,
+10,win,,normal,0,,1,
+11,win,,normal,0,,1,
+12,win,,normal,0,,1,
+13,lose,,normal,0,R,1,1 target left; retry inferred
+13,win,,normal,0,,1,
+14,win,,normal,0,,1,
+15,win,,normal,0,,1,
+16,win,,normal,0,,1,
+17,win,,normal,0,,0,won with 1 move left
+18,lose,,normal,0,R,0,1 target left
+18,lose,,normal,0,R,0,two specials side by side
+18,win,,high,0,,0,cascade win
+19,win,,normal,0,,1,
+20,win,,normal,0,,1,
+21,win,,normal,0,,1,new feature taught
+22,win,,normal,0,,0,won at last moment
+23,win,,high,0,,0,many cascades
+24,lose,,normal,0,R,0,first loss
+24,lose,,normal,0,R,0,second loss
+24,lose,50,normal,0,Q,0,session ended
+24,win,,low,0,,0,
+25,lose,60,normal,0,R,0,
+25,lose,20,normal,0,R,0,
+25,win,,high,0,,0,
+26,lose,15,normal,0,R,0,
+26,lose,5,high,0,R,0,
+26,win,,high,0,,0,
+27,lose,15,normal,1,Q,1,level number inferred
+27,win,,normal,0,,1,level number inferred
+28,win,,normal,0,,1,
+29,lose,5,normal,1,R,0,
+29,win,,high,0,,0,
+30,win,,high,0,,0,
+31,win,,normal,0,,0,
+32,win,,normal,0,,1,
+33,lose,30,low,1,R,0,
+33,lose,25,low,1,Q,0,
